@@ -16,6 +16,7 @@ h1{
 .container{
     width:50%;
     margin: auto;
+    text-align: center;
 
 }
 input,
