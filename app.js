@@ -18,7 +18,7 @@ function checkbirthdaydateislucky(){
     if(sum&&dob&&numbertocheck)
     comparevalue(sum,luckynumber.value);
     else
-    outputboxdiv.innerText="please enter both the field😡";
+    outputboxdiv.innerText="please enter both the fields😡";
 }
 
 function calculatesum(dob){
