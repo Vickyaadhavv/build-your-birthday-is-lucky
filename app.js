@@ -10,7 +10,6 @@ function comparevalue(sum,luckynumber){
         outputboxdiv.innerText="sorry,your birthday is not lucky😞";
     }
 }
-
 function checkbirthdaydateislucky(){
     const dob  = dateofbirth.value;
     const numbertocheck=luckynumber.value;
